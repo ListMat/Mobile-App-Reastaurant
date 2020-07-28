@@ -7,9 +7,7 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 
-
-![Bethehero](<script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
-
+<a href="https://imgur.com/dI9qYJm"><img src="https://i.imgur.com/dI9qYJm.jpg" title="source: imgur.com" /></a>
 
 
 
@@ -18,13 +16,12 @@
 
 
 
-  - 💹  **Node.js** - Backend
-  - ⚛ **React** - Frontend web
+
   - ⚛️  **React** **Native** / Expo - Mobile
-  - Ⓜ **SQLite** - Banco de dados
+
 
 # Releases!
- - No final de cada dia criei um release com versão do código do dia e com as minhas anotações
+ - https://www.youtube.com/watch?v=eAXow8r3lYY&t=907s
  
 # Instalação
 
