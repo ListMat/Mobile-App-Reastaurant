@@ -30,8 +30,8 @@ Para executar esse repositório baixe-o para sua maquina ou de um  Git Clone
   
 ## Mobile
 
-- Abra a pasta OmniStack-11/aulas/mobile/ na Shell (No windows Power Shell em modo administrador).
-- $ npm install esse comando ira instalar todos os módulos necessários ao React Native
-- $ npm start Ira iniciar o servidor de desenvolvimento do Expo
+- Abra a pasta Mobile-App-Reastaurant/mobile/ na Shell (No windows Power Shell em modo administrador).
+- $ yarn install esse comando ira instalar todos os módulos necessários ao React Native
+- $ yarn start Ira iniciar o servidor de desenvolvimento do Expo
 
 > 
